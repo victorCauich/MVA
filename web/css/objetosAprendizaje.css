@@ -1,0 +1,38 @@
+body
+{
+    width:100%;
+    height:100%;
+    margin:0 ;
+    padding:0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: white;
+    background-size: cover;
+    background-position: bottom center;
+	opacity: 0.86;
+}
+.borde{
+    text-align:	center;
+    height: 210px;
+}
+.borde2{
+    text-align: center;
+    height: 200px;
+}
+.stroke {
+color: white;
+}
+.stroke2{
+  color: white;
+  text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+  text-align: center;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:100px;
+    background:#ccc;
+}
